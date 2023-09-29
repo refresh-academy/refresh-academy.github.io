@@ -4,3 +4,13 @@
 
 layout: default
 ---
+
+# Refresh Academy
+
+## Stiamo arrivando
+
+Hello World! La Refresh Academy sta per nascere! 
+
+Stiamo pianificando i primi corsi per gennaio 2024. 
+
+## Stay tuned!
