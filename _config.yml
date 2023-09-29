@@ -21,20 +21,18 @@
 title: Refresh Academy
 email: refresh-academy@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Refresh Academy è una tech school per persone che vogliono intraprendere una carriera nel mondo della tecnologia, finalizzata alla crescita di nuovi talenti e fondata sui valori di diversità, inclusione ed integrazione.
+  Il nostro obiettivo è di offrire ai partecipanti corsi di alta qualità, partecipativi e con esperienze concrete, con possibilità di collaborare con imprese che vogliono innovare e investire in tecnologia.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
-# remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
-#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
