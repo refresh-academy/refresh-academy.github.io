@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/0j2taj-4lc5rn.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"corsi","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ai-solution-builder","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"eo_guMwqpu4b-CLMOY7i2"}

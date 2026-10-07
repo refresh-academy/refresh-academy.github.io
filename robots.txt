@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://refresh-academy.org/sitemap.xml
